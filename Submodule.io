@@ -83,9 +83,6 @@
         <mxCell id="XS4lTihDgYshzWDZYbry-29" value="Redirect to marks submission page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XS4lTihDgYshzWDZYbry-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XS4lTihDgYshzWDZYbry-28" target="XS4lTihDgYshzWDZYbry-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
